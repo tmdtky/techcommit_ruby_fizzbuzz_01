@@ -15,6 +15,14 @@ TechCommit の課題です。
 
 ruby 2.6.3
 
+# 実行方法
+
+```bash
+git clone https://github.com/tmdtky/techcommit_ruby_fizzbuzz_01.git
+cd examples
+ruby fizzbuzz.rb
+```
+
 ## 実行結果
 
     $ ruby fizzbuzz.rb
